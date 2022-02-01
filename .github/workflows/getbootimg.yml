@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.a2-4c10edc0.zip
   TZ: Asia/Shanghai
 
 jobs:
