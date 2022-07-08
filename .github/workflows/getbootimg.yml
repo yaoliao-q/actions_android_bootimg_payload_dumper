@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.a2-4c10edc0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-ota-sq3a.220705.003-17fec7eb.zip
   TZ: Asia/Shanghai
 
 jobs:
