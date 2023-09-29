@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-ota-sq3a.220705.003-17fec7eb.zip
+  ROM_URL: https://get.pixelexperience.org/changelog/blueline/PixelExperience_blueline-13.0-20230724-0805-OFFICIAL.zip
   TZ: Asia/Shanghai
 
 jobs:
